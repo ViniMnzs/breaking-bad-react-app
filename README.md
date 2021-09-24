@@ -16,4 +16,4 @@
 <br /><br />
 
 <p>Observações: Neste projeto, foram utilizados princípios de gestalt, como o da continuação para tornar a interface mais intuitiva.</p>
-<p>foram inseridos +também eslint e prettier com o modelo airbnb, junto com typescript, para dar solidez ao código. Além de deixá-lo organizado.</p>
+<p>foram inseridos também eslint e prettier com o modelo airbnb, junto com typescript, para dar solidez ao código. Além de deixá-lo organizado.</p>
