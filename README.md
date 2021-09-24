@@ -1,4 +1,5 @@
 <span>Versão do Node.js utilizada: 14.17.6</span>
+<br />
 <span>Versão do Yarn: 1.22.10</span>
 
 <h3>Como rodar o projeto: </h3><br />
@@ -12,7 +13,7 @@
   <li>Agora é só codar!</li>
 </ul>
 
-<br /><br /><br />
+<br /><br />
 
 <p>Observações: Neste projeto, foram utilizados princípios de gestalt, como o da continuação para tornar a interface mais intuitiva.</p>
 <p>foram inseridos +também eslint e prettier com o modelo airbnb, junto com typescript, para dar solidez ao código. Além de deixá-lo organizado.</p>
